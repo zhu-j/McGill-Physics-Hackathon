@@ -17,7 +17,7 @@ ax.set_zlabel('Height')
 # set parameters
 time_steps = 7200 # 2 hour air suspension
 num_simulation = 1000 #number of aribone virus
-distance = 100 # distance separating transmittor and bystander
+distance = 200 # distance separating transmittor and bystander
 height = 150 # height of average person's head
 
 person_contact = 0 #variable for number of times virus reaches person
